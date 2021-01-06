@@ -15,3 +15,5 @@
   <img height= "400" src="https://raw.githubusercontent.com/Yavuztmrrr/RecyclerViewList/main/Screens/DetayActivity.png" alt="SS5" />
 </p>
 
+## Clean Simple Architecture
+![Architecture](https://raw.githubusercontent.com/Yavuztmrrr/RecyclerViewList/main/images/mvc.png)
