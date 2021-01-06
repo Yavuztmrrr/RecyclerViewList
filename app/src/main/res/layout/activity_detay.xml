@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/black"
+    tools:context=".activity.DetayActivity">
+
+    <androidx.core.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+
+        <LinearLayout
+            android:orientation="vertical"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent">
+            <ImageView
+                android:adjustViewBounds="true"
+                android:id="@+id/imgDetayKapak"
+                android:padding="@dimen/txtDetayBosluk"
+                android:layout_width="match_parent"
+                android:layout_height="@dimen/imgDetayKapak"
+                android:scaleType="fitXY"
+
+                tools:src="@tools:sample/backgrounds/scenic" />
+
+            <TextView
+                android:id="@+id/txtDetayBaslik"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/txtDetayBosluk"
+                android:layout_marginLeft="@dimen/txtDetayVeriMarginLeft"
+                android:layout_marginBottom="@dimen/txtDetayBosluk"
+                android:textColor="@color/purple_200"
+                android:textSize="@dimen/txtDetayFilmAdiSize"
+                tools:text="FilmBasligi" />
+            <TextView
+                android:id="@+id/txtDetayFilmKonusuBaslik"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/txtDetayBosluk"
+                android:background="@color/txtBacground"
+                android:textSize="@dimen/txtDetayBaslikSize"
+                tools:text="Konusu" />
+            <TextView
+                android:id="@+id/txtDetayKonusu"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/txtDetayVeriMarginLeft"
+                android:layout_marginBottom="@dimen/txtDetayBosluk"
+                android:textColor="@color/purple_200"
+                android:textSize="@dimen/txtDetayVeriSize"
+                tools:text="FilmKonusu" />
+            <TextView
+                android:id="@+id/txtDetayFilmSeriYilBaslik"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/txtDetayBosluk"
+                android:background="@color/txtBacground"
+                android:textSize="@dimen/txtDetayBaslikSize"
+                tools:text="SeriYili" />
+            <TextView
+                android:id="@+id/txtDetayFilmSeriYil"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/txtDetayVeriMarginLeft"
+                android:layout_marginBottom="@dimen/txtDetayBosluk"
+                android:textColor="@color/purple_200"
+                android:textSize="@dimen/txtDetayVeriSize"
+                tools:text="FilmSeriYili" />
+
+            <TextView
+                android:id="@+id/txtDetayFilmTuruBaslik"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/txtDetayBosluk"
+                android:background="@color/txtBacground"
+                android:textSize="@dimen/txtDetayBaslikSize"
+                tools:text="Turu" />
+            <TextView
+                android:id="@+id/txtDetayFilmTuru"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/txtDetayVeriMarginLeft"
+                android:layout_marginBottom="@dimen/txtDetayBosluk"
+                android:textColor="@color/purple_200"
+                android:textSize="@dimen/txtDetayVeriSize"
+                tools:text="FilmTuru" />
+
+            <TextView
+                android:id="@+id/txtDetayFilmYonetmenBaslik"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/txtDetayBosluk"
+                android:background="@color/txtBacground"
+                android:textSize="@dimen/txtDetayBaslikSize"
+                tools:text="Yönetmen" />
+            <TextView
+                android:id="@+id/txtDetayYonetmen"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/txtDetayVeriMarginLeft"
+                android:layout_marginBottom="@dimen/txtDetayBosluk"
+                android:textColor="@color/purple_200"
+                android:textSize="@dimen/txtDetayVeriSize"
+                tools:text="FilmYonetmen" />
+
+            <TextView
+                android:id="@+id/txtDetayFilmButceBaslik"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/txtDetayBosluk"
+                android:background="@color/txtBacground"
+                android:textSize="@dimen/txtDetayBaslikSize"
+                tools:text="Butce" />
+            <TextView
+                android:id="@+id/txtDetayButce"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/txtDetayVeriMarginLeft"
+                android:layout_marginBottom="@dimen/txtDetayBosluk"
+                android:textColor="@color/purple_200"
+                android:textSize="@dimen/txtDetayVeriSize"
+                tools:text="FilmButce" />
+
+            <TextView
+                android:id="@+id/txtDetayFilmGiseGeliriBaslik"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/txtDetayBosluk"
+                android:background="@color/txtBacground"
+                android:textSize="@dimen/txtDetayBaslikSize"
+                tools:text="Gelir" />
+            <TextView
+                android:id="@+id/txtDetayGiseGeliri"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/txtDetayVeriMarginLeft"
+                android:layout_marginBottom="@dimen/txtDetayBosluk"
+                android:textColor="@color/purple_200"
+                android:textSize="@dimen/txtDetayVeriSize"
+                tools:text="FilmGiseGeliri" />
+
+            <TextView
+                android:id="@+id/txtDetayFilmImdbPuanBaslik"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="@dimen/txtDetayBosluk"
+                android:background="@color/txtBacground"
+                android:textSize="@dimen/txtDetayBaslikSize"
+                tools:text="imdbPuan" />
+            <TextView
+                android:id="@+id/txtDetayImdbPuan"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/txtDetayVeriMarginLeft"
+                android:layout_marginBottom="@dimen/txtDetayBosluk"
+                android:textColor="@color/purple_200"
+                android:textSize="@dimen/txtDetayVeriSize"
+                tools:text="FilmImdbPuan" />
+
+
+        </LinearLayout>
+
+
+    </androidx.core.widget.NestedScrollView>
+</androidx.constraintlayout.widget.ConstraintLayout>

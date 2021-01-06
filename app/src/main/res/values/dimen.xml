@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="arkaPlanWidth">360dp</dimen>
+    <dimen name="arkaPlanHeight">680dp</dimen>
+    <dimen name="logoWidth">250dp</dimen>
+    <dimen name="logoHeight">220dp</dimen>
+    <dimen name="cardViewHeight">180dp</dimen>
+    <dimen name="cardViewAltBosluk">10dp</dimen>
+    <dimen name="kapakResim">210dp</dimen>
+    <dimen name="kapakAciklamaYazi">18dp</dimen>
+    <dimen name="cardViewIcerikResimWitdth">120dp</dimen>
+    <dimen name="cardViewIcerikResimHeight">150dp</dimen>
+    <dimen name="cardViewIcerikResimBosluk">16dp</dimen>
+    <dimen name="cardViewIcerikTextMarginStart">10dp</dimen>
+    <dimen name="cardViewIcerikTextMarginTop">3dp</dimen>
+    <dimen name="cardViewIcerikBaslangicTextMarginTop">22dp</dimen>
+    <dimen name="imgDetayKapak">500dp</dimen>
+    <dimen name="txtDetayBosluk">10dp</dimen>
+    <dimen name="txtDetayVeriMarginLeft">5dp</dimen>
+
+    <dimen name="txtDetayBaslikSize">20sp</dimen>
+    <dimen name="txtDetayVeriSize">18sp</dimen>
+    <dimen name="txtDetayFilmAdiSize">35sp</dimen>
+</resources>

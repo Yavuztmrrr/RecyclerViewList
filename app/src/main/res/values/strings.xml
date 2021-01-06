@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">H5190041_YavuzSelimTemurFinal</string>
+
+    <string name="filmAdi">Film Adi</string>
+    <string name="filmTuru">Film Türü</string>
+    <string name="filmButce">Film Bütçe</string>
+    <string name="alertNetworkBaslik">İnternet baglantınız yoktur!!!</string>
+    <string name="alertNetworKapat">Kapat</string>
+    <string name="alertNetworkInternetAc">İnternet aç</string>
+    <string name="alertTitleMesagge">Uygulamadan Cıkmak İstiyormusunuz?</string>
+    <string name="cikisMesagge">Çıkış</string>
+    <string name="alertIptal">İptal</string>
+    <string name="kapakAciklama"> 2001 yılında seri hayatına başlayan hızlı ve öfkelinin günümüze kadar olan filmlerin detayları uygulamamızdadır.</string>
+    <string name="progressAlertBaslik">Yükleniyor...</string>
+
+    <string name="txtDetayFilmAdi">FİLM ADI</string>
+    <string name="txtDetayFilmSeriYilBaslik">SERİ YILI</string>
+    <string name="txtDetayFilmTuruBaslik">TURU</string>
+    <string name="txtDetayFilmYonetmenBaslik">YÖNETMEN</string>
+    <string name="txtDetayFilmButceBaslik">BÜTÇE</string>
+    <string name="txtDetayFilmGiseGeliriBaslik">GİŞE GELİRİ</string>
+    <string name="txtDetayFilmImdbPuanBaslik">IMDB PUANI</string>
+    <string name="txtDetayFilmKonusuBaslik">KONUSU</string>
+
+
+</resources>
