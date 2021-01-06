@@ -19,3 +19,10 @@
 <p align="left">
   <img src="https://raw.githubusercontent.com/Yavuztmrrr/RecyclerViewList/main/images/mvc.png" height="400" />
 </p>
+
+## Libraries and tools 🛠
+<li><a href="https://github.com/square/retrofit">Retrofit2</a></li>
+<li><a href="https://github.com/ReactiveX/RxJava">RxJava</a></li>
+<li><a href="https://github.com/bumptech/glide">Glide</a></li>
+<li><a href="https://github.com/square/okhttp">Okhttp</a></li>
+
