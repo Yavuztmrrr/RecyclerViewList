@@ -1,5 +1,6 @@
 # RecyclerViewList
 
-![appicon](https://raw.githubusercontent.com/Yavuztmrrr/RecyclerViewList/main/images/laucnher.png)
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yavuztmrrr/RecyclerViewList/main/images/laucnher.png" height="200" />
+</p>
 
