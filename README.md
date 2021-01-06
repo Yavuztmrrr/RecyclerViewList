@@ -16,4 +16,6 @@
 </p>
 
 ## Clean Simple Architecture
-![Architecture](https://raw.githubusercontent.com/Yavuztmrrr/RecyclerViewList/main/images/mvc.png)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Yavuztmrrr/RecyclerViewList/main/images/mvc.png" height="400" />
+</p>
