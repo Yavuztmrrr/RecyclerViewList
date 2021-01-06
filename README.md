@@ -1,4 +1,6 @@
 # RecyclerViewList
-<li><a href="https://raw.githubusercontent.com/Yavuztmrrr/RecyclerViewList/main/images/Logo.png ">Logo</a></li>
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Yavuztmrrr/RecyclerViewList/main/images/Logo.png"/>
+</p>
 
 
