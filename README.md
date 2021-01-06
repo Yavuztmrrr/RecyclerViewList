@@ -25,6 +25,7 @@
 <li><a href="https://github.com/ReactiveX/RxJava">RxJava</a></li>
 <li><a href="https://github.com/bumptech/glide">Glide</a></li>
 <li><a href="https://github.com/square/okhttp">Okhttp</a></li>
+<li><a href="https://github.com/cagataymuhammet/AndroidObjectPrinter">AndroidObjectPrinter</a></li>
 
 License
 --------
