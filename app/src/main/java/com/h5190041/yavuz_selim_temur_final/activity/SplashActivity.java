@@ -23,7 +23,7 @@ public class SplashActivity extends AppCompatActivity {
         init();
     }
     private void init(){
-        CountDownTimer countDownTimer =new CountDownTimer(3000,1000) {
+        CountDownTimer countDownTimer =new CountDownTimer(Constants.GECIS_SURESI,Constants.COUNT_DOWN) {
             @Override
             public void onTick(long l) {
 
