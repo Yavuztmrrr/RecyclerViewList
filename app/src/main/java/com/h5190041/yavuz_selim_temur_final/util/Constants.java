@@ -4,4 +4,6 @@ public class Constants {
     public  static String CLICK_FILM_ADI = "acilanFilmBasligi";
     public  static String BASE_URL = "https://raw.githubusercontent.com/Yavuztmrrr/h5190041yavuzselimtemur/main/JsonSerilerFinal/";
 
+    public  static int GECİS_SURESİ = 3000;
+    public  static int COUNT_DOWN = 1000;
 }
