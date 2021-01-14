@@ -6,7 +6,7 @@
 
     android:layout_height="wrap_content">
     <androidx.cardview.widget.CardView
-        android:layout_margin="5dp"
+        
         android:layout_width="match_parent"
         android:layout_height="@dimen/cardViewHeight"
         android:layout_marginBottom="@dimen/cardViewAltBosluk"
@@ -68,8 +68,8 @@
                 android:textColor="@color/white"
 
                 android:textStyle="bold|italic"
-                app:layout_constraintEnd_toEndOf="parent"
-                app:layout_constraintHorizontal_bias="0.0"
+                
+             
                 app:layout_constraintStart_toEndOf="@+id/imgLogo"
                 app:layout_constraintTop_toTopOf="parent"
                 tools:text="FilmAdi" />
