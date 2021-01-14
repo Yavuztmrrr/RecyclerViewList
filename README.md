@@ -17,7 +17,7 @@
 
 ## Clean Simple Architecture
 <p align="left">
-  <img src="https://raw.githubusercontent.com/Yavuztmrrr/RecyclerViewList/main/images/mvc.png" height="400" />
+  <img src="https://raw.githubusercontent.com/Yavuztmrrr/RecyclerViewList/main/images/MimariYapi.png" height="400" />
 </p>
 
 ## Libraries and tools 🛠
